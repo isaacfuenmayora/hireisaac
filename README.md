@@ -1,2 +1,2 @@
-# hireisaac
-My website portfolio
+# hireIsaac
+My website portfolio and resume!
